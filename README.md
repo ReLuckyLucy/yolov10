@@ -2,7 +2,6 @@
 
 
 
-
 <p align="center">
   <img src="figures/latency.svg" width=48%>
   <img src="figures/params.svg" width=48%> <br>
